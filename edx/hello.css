@@ -1,0 +1,39 @@
+
+h1,h2 {
+    color:red;
+    text-align: center;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    color:cyan;
+    text-align: center;
+}
+ul{
+    color:cyan;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+th{
+    color:rgb(4, 4, 99);
+    
+}
+th,td{
+    background-color:rgb(223, 190, 190);
+    
+}
+a{
+    color:blueviolet;
+
+}
+a:hover{
+    color:crimson;
+    font-weight: bold;
+}
+
+h5, p{
+    color:darkorange;
+}
+
