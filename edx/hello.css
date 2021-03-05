@@ -1,5 +1,5 @@
 
-h1,h2 {
+div > h1,div > h2,div > h3 {
     color:red;
     text-align: center;
 }
